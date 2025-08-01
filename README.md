@@ -9,8 +9,6 @@
 
 I’m a data scientist and **AI/LLM enthusiast** passionate about building solutions at the intersection of public health, machine learning, and generative models. I’m particularly excited about using **language models (LLMs)** and **retrieval-augmented generation (RAG)** to assist real-world decision-making in healthcare and other high-impact domains.
 
-My academic journey spans diverse domains—from **Globalization at Dartmouth**, where I supported high-impact organizations, to **Microbiology and Psychology** at the **University of Hawaii**, and now to building **ML and NLP tools in healthcare** at Harvard.
-
 Leadership and mentorship highlights:
 - VP, Harvard Graduate Consulting Club
 - Mentor, **StatStart Program**
@@ -26,6 +24,8 @@ Leadership and mentorship highlights:
 - **MLOps & Engineering** (Docker, FastAPI, Streamlit)
 - **Healthcare Operations** (Supply chain analytics, clinical workflows)
 - **Consulting & Leadership** (Project strategy, team mentorship)
+
+---
 
 ## ⚙️ Tools & Technologies
 
@@ -57,6 +57,7 @@ Leadership and mentorship highlights:
 
 
 ---
+
 
 ## 📌 Featured Projects
 
