@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rex Manglicmot
 
 🎓 **Master's Graduate in Health Data Science** at **Harvard T.H. Chan School of Public Health**  
-📍 Based in **Boston, MA** | 🌎 Global mindset shaped by experiences across **Harvard**, **Dartmouth**, and **Hawaii**
+🌎 Global mindset shaped by experiences across **Harvard**, **Dartmouth**, and **Hawaii**
 
 ---
 
@@ -58,7 +58,7 @@ Leadership and mentorship highlights:
 ---
 
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Continuously Working)
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
