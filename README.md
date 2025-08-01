@@ -57,3 +57,13 @@ Leadership and mentorship highlights:
 <!-- Databases -->
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<!-- Machine Learning Algorithms -->
+![KNN](https://img.shields.io/badge/KNN-grey?style=for-the-badge)
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-grey?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-grey?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-grey?style=for-the-badge)
+![LDA](https://img.shields.io/badge/LDA-grey?style=for-the-badge)
+![QDA](https://img.shields.io/badge/QDA-grey?style=for-the-badge)
+![K-Means](https://img.shields.io/badge/K--Means-grey?style=for-the-badge)
+
+
