@@ -53,15 +53,3 @@ Leadership and mentorship highlights:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-
----
-
-
-## 📌 Featured Projects (Continuously Working)
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **AI Research Assistant** | Built a chatbot using open-source LLMs (e.g., Mistral via Hugging Face) to help researchers extract and reflect on insights from multi-session interview transcripts. | Python, HuggingFace, Streamlit |
-| **BranchRAG: Retrieval-Augmented Generation System** | Designed and implemented a modular RAG pipeline to ground LLM responses in domain-specific documents for more accurate and verifiable outputs. Integrated FAISS for semantic search, FastAPI for API interface, and Hugging Face's Mistral model for generation. Includes logging, testing, and a Streamlit UI for rapid evaluation. | Python, FAISS, Hugging Face, FastAPI, Streamlit, Docker |
-| **Deidentifier Tool** | Developed an NLP pipeline to detect and redact personally identifiable information (PII) from clinical transcripts using spaCy and Presidio. | Python, FastAPI, Docker |
