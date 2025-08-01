@@ -65,11 +65,3 @@ Leadership and mentorship highlights:
 | **AI Research Assistant** | Built a chatbot using open-source LLMs (e.g., Mistral via Hugging Face) to help researchers extract and reflect on insights from multi-session interview transcripts. | Python, HuggingFace, Streamlit |
 | **BranchRAG: Retrieval-Augmented Generation System** | Designed and implemented a modular RAG pipeline to ground LLM responses in domain-specific documents for more accurate and verifiable outputs. Integrated FAISS for semantic search, FastAPI for API interface, and Hugging Face's Mistral model for generation. Includes logging, testing, and a Streamlit UI for rapid evaluation. | Python, FAISS, Hugging Face, FastAPI, Streamlit, Docker |
 | **Deidentifier Tool** | Developed an NLP pipeline to detect and redact personally identifiable information (PII) from clinical transcripts using spaCy and Presidio. | Python, FastAPI, Docker |
-
----
-
-## 📬 Get in Touch
-
-- 📧 [rexmanglicmot@hsph.harvard.edu](mailto:rexmanglicmot@hsph.harvard.edu)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rexmanglicmot)  
-- 💻 [GitHub](https://github.com/rexmanglicmot)
