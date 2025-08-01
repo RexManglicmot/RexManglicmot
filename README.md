@@ -22,10 +22,19 @@ Leadership and mentorship highlights:
 
 - **Artificial Intelligence & LLMs** (ChatGPT, Mistral, RAG, WhisperX, Presidio)
 - **Machine Learning & Data Science** (Python, R, scikit-learn, XGBoost, SHAP)
-- **Public Health Analytics** (EHR, PROMIS, digital phenotyping)
-- **MLOps & Engineering** (Docker, FastAPI, Streamlit, Airflow)
+- **Public Health Analytics** (EHR, digital phenotyping)
+- **MLOps & Engineering** (Docker, FastAPI, Streamlit)
 - **Healthcare Operations** (Supply chain analytics, clinical workflows)
 - **Consulting & Leadership** (Project strategy, team mentorship)
+
+## ⚙️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 ---
 
