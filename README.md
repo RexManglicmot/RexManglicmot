@@ -66,4 +66,11 @@ Leadership and mentorship highlights:
 ![QDA](https://img.shields.io/badge/QDA-grey?style=for-the-badge)
 ![K-Means](https://img.shields.io/badge/K--Means-grey?style=for-the-badge)
 
+<!-- LLMs & NLP Concepts -->
+![LLMs](https://img.shields.io/badge/LLMs-grey?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-grey?style=for-the-badge)
+![LLaMA](https://img.shields.io/badge/LLaMA-grey?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+
+
 
