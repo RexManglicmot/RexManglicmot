@@ -72,5 +72,7 @@ Leadership and mentorship highlights:
 ![LLaMA](https://img.shields.io/badge/LLaMA-grey?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 
+![Profile Views](https://komarev.com/ghpvc/?username=rexmanglicmot&style=for-the-badge&color=blue)
+
 
 
