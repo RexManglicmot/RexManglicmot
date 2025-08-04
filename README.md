@@ -7,7 +7,7 @@ I’m a data scientist and **AI/LLM enthusiast** passionate about building solut
 
 ## Upcoming Projects 
 
-These are a list of ideas for projects **once** I complete the current projects. The goal is to build the habit of creating production-style code with logs, tests, containerization, etc. 
+These are a list of ideas for projects <u>**once**</u> I complete the current projects. The goal is to build the habit of creating production-style code with logs, tests, containerization, etc. 
 
 **RAG**: Self-consistency, Multi-hop, Re-ranking, Structured Context, Fusion techniques, Query Rewriting, Hierarchical.
 
