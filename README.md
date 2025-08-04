@@ -10,7 +10,9 @@ I’m a data scientist and **AI/LLM enthusiast** passionate about building solut
 These are a list of ideas for projects **once** I complete the current projects. The goal is to build the habit of creating production-style code with logs, tests, containerization, etc. 
 
 **RAG**: Self-consistency, Multi-hop, Re-ranking, Structured Context, Fusion techniques, Query Rewriting, Hierarchical.
+
 **Tuning**: Fine, adaptor, prefix, prompt, instruction
+
 **Multimodal**: text and photos
 
 ## Tools & Technologies
