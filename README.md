@@ -15,6 +15,8 @@ These are a list of ideas for projects **once** I complete the current projects.
 
 **Multimodal**: text and photos to some degree
 
+**Optimizaitons**: caching, traffic, and performance
+
 ## Tools & Technologies
 
 <!-- Programming Languages & IDEs -->
