@@ -3,17 +3,7 @@
 🎓 **Master's Graduate in Health Data Science** at **Harvard T.H. Chan School of Public Health**  
 🌎 Global mindset shaped by experiences across **Harvard**, **Dartmouth**, and **Hawaii**
 
----
-
-## About Me
-
 I’m a data scientist and **AI/LLM enthusiast** passionate about building solutions at the intersection of public health, machine learning, and generative models. I’m particularly excited about using **language models (LLMs)** and **retrieval-augmented generation (RAG)** to assist real-world decision-making in healthcare and other high-impact domains.
-
-Leadership and mentorship highlights:
-- VP, Harvard Graduate Consulting Club
-- Mentor, **StatStart Program**
-
----
 
 ## Upcoming Projects 
 
@@ -21,14 +11,10 @@ These are a list of ideas for projects **once** I complete the current projects.
 
 RAG: 
 - Self-consistency, Multi-hop, Re-ranking, Structured Context, Fusion techniques, Query Rewriting, Hierarchical.
-
 Tuning:
 - Fine, adaptor, prefix, prompt, instruction
-
 Multimodal:
 - text and photos
-
----
 
 ## Tools & Technologies
 
