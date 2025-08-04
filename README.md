@@ -5,18 +5,32 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m a data scientist and **AI/LLM enthusiast** passionate about building solutions at the intersection of public health, machine learning, and generative models. I’m particularly excited about using **language models (LLMs)** and **retrieval-augmented generation (RAG)** to assist real-world decision-making in healthcare and other high-impact domains.
 
 Leadership and mentorship highlights:
 - VP, Harvard Graduate Consulting Club
 - Mentor, **StatStart Program**
-- Contributor, Harvard Medical School’s **Health Professions Recruitment & Exposure Program (HPREP)**
 
 ---
 
-## ⚙️ Tools & Technologies
+## Upcoming Projects 
+
+These are a list of ideas for projects **once** I complete the current projects. The goal is to build the habit of creating production-style code with logs, tests, containerization, etc. 
+
+RAG: 
+- Self-consistency, Multi-hop, Re-ranking, Structured Context, Fusion techniques, Query Rewriting, Hierarchical.
+
+Tuning:
+- Fine, adaptor, prefix, prompt, instruction
+
+Multimodal:
+- text and photos
+
+---
+
+## Tools & Technologies
 
 <!-- Programming Languages & IDEs -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
