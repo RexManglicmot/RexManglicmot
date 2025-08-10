@@ -13,9 +13,13 @@ These are a list of ideas for projects **once** I complete the current projects.
 
 **LLM-Tuning**: Fine, adaptor, prefix, prompt, instruction
 
+**LLM-Evals**: Multi-LLMs as a judge and use concensus to proxy human, Ground truth labels vs Judge, Adversial stress testing (deliberatlty plant wrong/ not factual answers to see if LLM gets it correc)
+
 **Multimodal**: text and photos to some degree
 
 **Optimizaitons**: caching, traffic, and performance
+
+**Misc**: MCP
 
 ## Tools & Technologies
 
