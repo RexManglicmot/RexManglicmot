@@ -19,7 +19,7 @@ These are a list of ideas for projects **once** I complete the current projects.
 
 **Optimizaitons**: caching, traffic, and performance
 
-**Misc**: MCP
+**Misc**: MCP, SGLang, vllms
 
 ## Tools & Technologies
 
