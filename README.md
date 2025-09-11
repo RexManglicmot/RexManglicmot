@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rex Manglicmot
 
-🎓 **Master's Graduate in Health Data Science** at **Harvard T.H. Chan School of Public Health**  
+**Master's Graduate in Health Data Science** at **Harvard T.H. Chan School of Public Health**  
 Global mindset shaped by experiences across **Harvard**, **Dartmouth**, and **Hawaii**
 
 I’m a data scientist and **AI/LLM enthusiast** passionate about building solutions at the intersection of public health, machine learning, and generative models. I’m particularly excited about using **language models (LLMs)** and **retrieval-augmented generation (RAG)** to assist real-world decision-making in healthcare and other high-impact domains.
