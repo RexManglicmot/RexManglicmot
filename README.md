@@ -36,7 +36,6 @@ These are a list of ideas for projects **once** I complete the current projects.
 ![SHAP](https://img.shields.io/badge/SHAP-555555?style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 <!-- LLM Tools -->
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
